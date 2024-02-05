@@ -1,0 +1,23 @@
+.banner {
+  color: #E78895;
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0 250px 0;
+}
+
+.banner-container {
+  margin-left: 100px;
+  margin-bottom: 170px;
+}
+
+.banner-container h1 {
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+
+.banner-container p {
+  margin-top: 2px;
+  padding-bottom: 20px;
+  color: #f29ca8;
+  font-size: 30px;
+}
